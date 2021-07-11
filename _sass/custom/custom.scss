@@ -1,0 +1,72 @@
+* {
+  font-family: Garamond;
+}
+
+
+
+.main-content {
+  
+
+
+  * {
+    line-height: 1.2em;
+    
+  }
+
+  h1,h2,h3,h4,h5,h6 {
+    margin-bottom: 0;
+  }
+
+  ul, ol {
+    margin-top: 0;
+  }
+
+  dl {
+    margin-top: -1em;
+    grid-template-columns: min-content auto;
+  }
+
+  dt {
+    text-align: left;
+    white-space: nowrap;
+    &::after {
+      content: "";
+    }
+  }
+
+  dt,
+  dd {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.2em;
+  }
+
+  h2 + dl {
+    margin-top: 0em;
+  }
+  h3 + dl {
+    margin-top: 0em;
+  }
+  h4 + dl {
+    margin-top: 0em;
+  }
+  h5 + dl {
+    margin-top: 0em;
+  }
+  h6 + dl {
+    margin-top: 0em;
+  }
+
+  span.clubs {
+    color: #32AD01;
+  }
+  span.diamonds {
+    color: #FF9B00;
+  }
+  span.hearts {
+    color: #FF0000;
+  }
+  span.spades {
+    color: #33339B;
+  }
+}

@@ -1,0 +1,37 @@
+title: Fools
+description: >- # this means to ignore newlines until "baseurl:"
+  A natural 2/1 bidding system with transfers and other gadgets for the
+  awesome game of contract bridge.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+
+logo: "/assets/images/logo.png"
+search_enabled: false
+
+include:
+ - "_assets/js"
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
