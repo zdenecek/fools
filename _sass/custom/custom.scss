@@ -13,6 +13,19 @@
     
   }
 
+  th, td {
+    min-width: 0;
+  }
+
+  table {
+    min-width: 0;
+  }
+
+  .table-wrapper{
+    width: auto;
+    display: inline-block;
+  }
+
   h1,h2,h3,h4,h5,h6 {
     margin-bottom: 0;
   }
@@ -41,6 +54,10 @@
     line-height: 1.2em;
   }
 
+  h1 + dl {
+    margin-top: 0em;
+  }
+
   h2 + dl {
     margin-top: 0em;
   }
@@ -57,16 +74,25 @@
     margin-top: 0em;
   }
 
-  span.clubs {
-    color: #32AD01;
+  #markdown-toc + dl {
+    margin-top: 0em;
   }
-  span.diamonds {
-    color: #FF9B00;
+
+  .highlight {
+    background-color: yellow;
   }
-  span.hearts {
-    color: #FF0000;
-  }
-  span.spades {
-    color: #33339B;
-  }
+
+}
+
+span.clubs {
+  color: #32AD01;
+}
+span.diamonds {
+  color: #FF9B00;
+}
+span.hearts {
+  color: #FF0000;
+}
+span.spades {
+  color: #33339B;
 }

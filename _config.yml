@@ -6,16 +6,22 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
 theme: just-the-docs
 plugins:
   - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: "sis"
+    values:
+      layout: "page"
 
 logo: "/assets/images/logo.png"
 search_enabled: false
 
 include:
- - "_assets/js"
+ - "assets/js"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
