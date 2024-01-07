@@ -16,5 +16,5 @@ Ahojka kluci
 - After 1♥-(4m) and 4♥ opening, 4♠ spades, 4NT RKCB  
 - deleted bunch of unused crap
 - After 2NT jump reopen STAY + TRF
-- 
+- S láskouuu kluci a děvčata <3
 
