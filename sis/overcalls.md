@@ -649,7 +649,7 @@ nat responses, cue ART, possibly ask for M4, cue twice nat
 
 
 ## 2NT reopen jump overcall
-19-20, nat responses
+19-20, STAY and TRF on
 
 
 ## 2NT reopen against PRE or constructive 2m opening overcall

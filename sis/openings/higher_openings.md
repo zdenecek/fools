@@ -111,10 +111,10 @@ everything is to play
 ## 4♥ Opening
 
 4♠
-: Kickback
+: to play
 
 4NT
-: to play
+: RKCB
 
 5m
 : cue (second round control is OK)
