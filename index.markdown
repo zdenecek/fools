@@ -21,5 +21,6 @@ Ahojka kluci
 ### 2024-04-11
 
 - fixed changelog, fixed 1M - 2NT to look good
-- added 1c - 2c 5spades + 5 other if 1c is 3+clubs
+- added (1c) - 2c 5spades + 5 other if 1c is 3+clubs
+- changed responses after (1m) - 2m to 2r is p/c
 

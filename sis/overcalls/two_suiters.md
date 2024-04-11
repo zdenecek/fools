@@ -94,12 +94,45 @@ Be careful with Unusual NT, as you give your opposition the choice of two cue-bi
 4♠
 : Kickback
 
+##### (1♣)-2♣-(p)
 
-
-##### (1m)-2♦-(p) 
+2♦
+: p/c
 
 2♥
-:  6+♥ nF     
+:  p/c     
+
+2♠
+: nat nF
+
+2NT
+: show your other suit (or INV w/ spade support)
+
+3m
+: 6+m INV
+
+3♥
+: 6+♥ INV
+
+3♠
+: good constructive raise aka distributional subINV (9-10) with decent fit, mostly 4+ cards
+
+3NT
+: to play
+
+4m
+: FJ for spades
+
+4M
+: to play
+
+4NT
+: Kickback for spades
+
+##### (1♦)-2♦-(p) 
+
+2♥
+:  p/c     
 
 2♠
 : nat nF
