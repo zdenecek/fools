@@ -12,9 +12,14 @@ Ahojka kluci
 - Rework passed hand bidding after 1M
 - Rework 1♥-1♠-2♦ for consistency - 3rd lvl INV
 - 1m-(3♥)-X shows spades, 3♠ asks for stopper.
-- 1♠-(3♥)-X incline to bid 3NT with stopper, 3♠ asks for stopper wide-range
+- 1♠-(3♥)-X incline to bid 3NT with stopper, 3♠ support wide-range
 - After 1♥-(4m) and 4♥ opening, 4♠ spades, 4NT RKCB  
 - deleted bunch of unused crap
 - After 2NT jump reopen STAY + TRF
 - S láskouuu kluci a děvčata <3
+
+### 2024-04-11
+
+- fixed changelog, fixed 1M - 2NT to look good
+- added 1c - 2c 5spades + 5 other if 1c is 3+clubs
 

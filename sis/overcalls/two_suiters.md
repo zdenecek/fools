@@ -12,8 +12,11 @@ nav_order: 3
 
 --- 
   
+(1♣)-2♣
+: 5+♠ 5+any*, 12+ if 1♣ promises 3+ clubs
+: natural clubs otherwise
 
-(1m)-2♦
+(1♦)-2♦
 : 5+♠ 5+any*, 12+
 
 (1x)-2NT
