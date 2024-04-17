@@ -1,6 +1,6 @@
 ---
 title: All inversions of spades
-parent: Two way checkback
+parent: two_way_checkback
 nav_order: 2
 ---
 

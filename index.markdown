@@ -7,7 +7,7 @@ Ahojka kluci
 ## Changelog
 
 
-### 2024-04-16 Cozy booth
+### 2024-04-17 Cozy booth
 
 - fixed changelog ordering
 - [1M - 2NT rewrite](/sis/openings/1M.html#swiss-1m-2nt)
