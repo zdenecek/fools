@@ -10,7 +10,10 @@ Ahojka kluci
 ### 2024-04-16 Cozy booth
 
 - fixed changelog ordering
-- [1M - 2NT rewrite](sis/openings/1M.md)
+- [1M - 2NT rewrite](/sis/openings/1M.html#swiss-1m-2nt)
+- CONFIT 2♠ after 1♣-1R-1NT
+- Simplified passed hand bidding after 1M
+- [Inversions after spades](/sis/openings/two_way_checkback/all_inversions_of_spades.html)
 
 
 ### 2024-04-11 Adam's lair
