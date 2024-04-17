@@ -6,6 +6,20 @@ Ahojka kluci
 
 ## Changelog
 
+
+### 2024-04-16 Cozy booth
+
+- fixed changelog ordering
+- [1M - 2NT rewrite](sis/openings/1M.md)
+
+
+### 2024-04-11 Adam's lair
+
+- fixed changelog, fixed 1M - 2NT to look good
+- added (1♣) - 2♣ 5spades + 5 other if 1♣ is 3+clubs
+- changed responses after (1m) - 2m to 2R is p/c
+
+
 ### 2024-01-07 Faust Shisha bar
 
 - Add 2♦ drury w/4-card support
@@ -17,10 +31,4 @@ Ahojka kluci
 - deleted bunch of unused crap
 - After 2NT jump reopen STAY + TRF
 - S láskouuu kluci a děvčata <3
-
-### 2024-04-11
-
-- fixed changelog, fixed 1M - 2NT to look good
-- added (1c) - 2c 5spades + 5 other if 1c is 3+clubs
-- changed responses after (1m) - 2m to 2r is p/c
 
