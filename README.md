@@ -1,8 +1,3 @@
-# Fools Bidding System
-# Dražební systém Fools
+# Fools Bidding System - Future Of Old Style
 
-[Deployment at fools.zdenektomis.eu](https://fools.zdenektomis.eu)
-
-
-Authors: Adam Janas, Zdeněk Tomis 
-
+Authors: Adam Janas, Zdeněk Tomis, Adam Pyszko 
