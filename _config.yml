@@ -22,6 +22,7 @@ search_enabled: false
 
 include:
  - "assets/js"
+ - ".htaccess"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
