@@ -12,7 +12,7 @@ Modern 2/1 with gadgets.
 
 ## Changelog
 
-### 2024-04-17 Cozy booth
+### 2024-04-17 Cozy booth at FEL
 
 - fixed changelog ordering
 - [1M - 2NT rewrite](/sis/openings/1M.html#swiss-1m-2nt)
