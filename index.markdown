@@ -1,11 +1,15 @@
 ---
 layout: home
+title: "Fools"
 ---
 
-Ahojka kluci
+# Fools
+
+Auction system and card-play agreements.
+
+Modern 2/1 with gadgets.
 
 ## Changelog
-
 
 ### 2024-04-17 Cozy booth
 
