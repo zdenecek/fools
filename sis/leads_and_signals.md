@@ -5,9 +5,10 @@ nav_order: 15
 
 # Leads and signals
 
-{: .no_toc}
+- toc
+{:toc}
 
-- Obsah {:toc}
+---
 
 ## Leads against NT
 
@@ -16,7 +17,8 @@ If not specified, lead the top of a sequence
 |     |                                                                                        |                                   |
 | --- | -------------------------------------------------------------------------------------- | --------------------------------- |
 | A   | AKx, Ax, AKQx (rare - for SP)                                                          | unblock Qx, Qxx, Tx, Txx, JT, JTx |
-| K   | Kx, AK, AKQx, KQx, (AKx against 5th or 6th lvl contracts or against declarers preempt) | unblock J                         |
+| K   | Kx, AK, AKQx, KQx  | unblock J                         |
+| | (AKx against 5th or 6th lvl contracts or against declarers preempt) | |
 | Q   | Qx, QJx, (AKQx - partner can signal count - low = even)                                | promises 0 or 2 higher cards      |
 | J   | Jx, JTx, AKQJx, KQJx, AQJx                                                             | promises 0 or 2 higher cards      |
 | T   | Tx, T9x, AJTx, KJTx                                                                    | promises 0 or 2 higher cards      |
@@ -29,9 +31,9 @@ lead low or lowest from the sequence if you want your partner to unblock.
 
 When your partner leads something and you take the trick, return the suit:
 
-- Higher from doubleton
-- Third from even number
-- Lowest from odd number
+Higher from doubleton  
+Third from even number  
+Lowest from odd number
 
 ### Later NT leads
 
@@ -50,19 +52,6 @@ this suit = odd current number
 
 Ace lead King lead Queen lead Jack lead
 
-8 lead T or 9 lead small lead
-
-#### Reverse Smith Echo
-
-Only applies in the 2nd trick
-
-Both defenders signal, unless the partner of the opening leader showed his
-attitude clearly in the 1st round  
-In that case, the non-leading defender signals his current holding in the suit
-led in the 1st trick (low = odd)  
-Both defenders signal, unless the opening lead was the eight.  
-In that case, the opening leader signals his current holding in the suit he led
-in the 1st trick (low = odd)
 
 |            |                                                                                             |
 | ---------- | ------------------------------------------------------------------------------------------- |
@@ -78,6 +67,19 @@ in the 1st trick (low = odd)
 |            | 3 cards - play the highest, even J from Jxx                                                 |
 |            | 2 or 5 cards - play the lowest                                                              |
 |            | 4 cards - play the second lowest                                                            |
+
+
+#### Reverse Smith Echo
+
+Only applies in the 2nd trick
+
+Both defenders signal, unless the partner of the opening leader showed his
+attitude clearly in the 1st round  
+In that case, the non-leading defender signals his current holding in the suit
+led in the 1st trick (low = odd)  
+Both defenders signal, unless the opening lead was the eight.  
+In that case, the opening leader signals his current holding in the suit he led
+in the 1st trick (low = odd)
 
 ## Suit leads
 
@@ -104,8 +106,7 @@ Same as NT
 
 ### Trump signals
 
-Suit preference
-
+Suit preference  
 Alternative signal: count, initiated mostly by partners unusual play
 
 ### What to signal
@@ -190,8 +191,8 @@ If partner leads a suit and we have AKQ, the normal play is QAK.
 
 ### Partner executes an unusual play
 
-- He is asking us to unblock
-- He is asking for an alternative signal
+He is asking us to unblock  
+He is asking for an alternative signal
 
 ### Defending against signals
 
