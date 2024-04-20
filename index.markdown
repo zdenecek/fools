@@ -1,6 +1,7 @@
 ---
 layout: home
-title: "Fools"
+title: Home
+nav_order: 1
 ---
 
 # Fools
