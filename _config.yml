@@ -2,8 +2,8 @@ title: Fools
 description: >- # this means to ignore newlines until "baseurl:"
   A natural 2/1 bidding system with transfers and other gadgets for the
   awesome game of contract bridge.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/fools" # the subpath of your site, e.g. /blog
+url: "https://bridge.zdenektomis.eu" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: just-the-docs
