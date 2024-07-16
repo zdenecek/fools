@@ -2,9 +2,10 @@
 name: Deploy to ftp
 
 on:
+  workflow_dispatch:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
