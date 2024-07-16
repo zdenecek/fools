@@ -10,6 +10,12 @@ Auction system and card-play agreements.
 
 Modern 2/1 with gadgets.
 
+## Authors
+
+- Adam Janas
+- [Zdeněk Tomis](https://bridge.zdenektomis.eu/en)
+- Adam Pyszko
+
 ## Changelog
 
 ### 2024-04-17 Cozy booth at FEL
