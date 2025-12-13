@@ -18,6 +18,9 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
           cache-version: 0
+      - name: Update baseurl for version
+        run: |
+          sed -i "s|baseurl: \"/fools\"|baseurl: \"/fools/${{ github.ref_name }}\"|" _config.yml
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:
