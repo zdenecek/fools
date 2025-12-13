@@ -18,9 +18,24 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
           cache-version: 0
-      - name: Update baseurl for version
+      - name: Update baseurl and add version
         run: |
-          sed -i "s|baseurl: \"/fools\"|baseurl: \"/fools/${{ github.ref_name }}\"|" _config.yml
+          TAG_NAME="${{ github.ref_name }}"
+          TAG_MESSAGE=$(git tag -l --format='%(contents)' "$TAG_NAME")
+          sed -i "s|baseurl: \"/fools\"|baseurl: \"/fools/$TAG_NAME\"|" _config.yml
+          echo "" >> _config.yml
+          echo "version: \"$TAG_NAME\"" >> _config.yml
+          echo "version_message: |" >> _config.yml
+          echo "  $TAG_MESSAGE" >> _config.yml
+      - name: Create version data file
+        run: |
+          TAG_NAME="${{ github.ref_name }}"
+          TAG_MESSAGE=$(git tag -l --format='%(contents)' "$TAG_NAME")
+          mkdir -p _data
+          jq -n \
+            --arg tag "$TAG_NAME" \
+            --arg message "$TAG_MESSAGE" \
+            '{version: $tag, message: $message}' > _data/version.json
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:
@@ -28,7 +43,7 @@ jobs:
       - name: Create metadata file
         run: |
           TAG_NAME="${{ github.ref_name }}"
-          TAG_MESSAGE=$(git tag -l --format='%(contents)' "$TAG_NAME" | head -1)
+          TAG_MESSAGE=$(git tag -l --format='%(contents)' "$TAG_NAME")
           TAG_TIME=$(git log -1 --format=%cI "$TAG_NAME")
           jq -n \
             --arg tag "$TAG_NAME" \
