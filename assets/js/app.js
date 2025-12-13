@@ -5,4 +5,18 @@ $(document).ready(function () {
         .replaceAll('♥', "<span class='hearts'>♥</span>")
         .replaceAll('♠', "<span class='spades'>♠</span>")
   });
+  
+  if (window.siteVersion) {
+    var footer = $('.site-footer');
+    if (footer.length) {
+      var versionText = 'Version: ' + window.siteVersion;
+      if (window.siteVersionMessage) {
+        var msg = String(window.siteVersionMessage).trim();
+        if (msg) {
+          versionText += ' - ' + msg;
+        }
+      }
+      footer.text(versionText);
+    }
+  }
 });

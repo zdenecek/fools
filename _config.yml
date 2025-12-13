@@ -48,4 +48,4 @@ exclude:
   - vendor/ruby/
   - README.md
   - versions.php
-  - fools-root/
+

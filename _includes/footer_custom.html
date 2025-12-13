@@ -1,9 +1,0 @@
-{% if site.version %}
-<div style="text-align: center; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e8e8e8; color: #666; font-size: 0.9rem;">
-  Version: <strong>{{ site.version }}</strong>
-  {% if site.version_message and site.version_message != "" %}
-    <br><span style="font-size: 0.85rem; color: #999;">{{ site.version_message | strip | truncatewords: 20 }}</span>
-  {% endif %}
-</div>
-{% endif %}
-

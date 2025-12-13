@@ -1,2 +1,10 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="/assets/js/app.js"></script>
+{% if site.version %}
+<script>
+  window.siteVersion = {{ site.version | jsonify }};
+  {% if site.version_message %}
+  window.siteVersionMessage = {{ site.version_message | jsonify }};
+  {% endif %}
+</script>
+{% endif %}
+<script src="{{ '/assets/js/app.js' | relative_url }}"></script>
