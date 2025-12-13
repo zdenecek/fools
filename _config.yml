@@ -20,6 +20,9 @@ defaults:
 logo: "/assets/images/logo.png"
 search_enabled: false
 
+aux_links:
+  Versions: "/fools/versions"
+
 include:
  - "assets/js"
  - ".htaccess"
