@@ -27,8 +27,8 @@ Modern 2/1 with gadgets.
 
 ### 2025-12-14 IAFR integration
 
-- [1d Opening](/sis/openings/1d.html): Updated 1♦-1NT logic, 2♣ is 11-14, other bids are 15+
-- [1M Opening](/sis/openings/1M.html): Complete restructuring.
-- [2M Opening](/sis/openings/2M.html): 11-14 6card. Merged 2H/2S, updated logic.
-- [2d Opening](/sis/openings/2d.html): Added Mini-Multi versions.
+- [1d Opening](/fools/1.1/sis/openings/1d.html): Updated 1♦-1NT logic, 2♣ is 11-14, other bids are 15+
+- [1M Opening](/fools/1.1/sis/openings/1M.html): Complete restructuring.
+- [2M Opening](/fools/1.1/sis/openings/2M.html): 11-14 6card. Merged 2H/2S, updated logic.
+- [2d Opening](/fools/1.1/sis/openings/2d.html): Added Mini-Multi versions.
 
