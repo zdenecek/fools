@@ -1,13 +1,8 @@
-# Fools
+# Fools Bidding System
+# Dražební systém Fools
 
-Auction system and card-play agreements. 
+[Deployment at fools.zdenektomis.eu](https://fools.zdenektomis.eu)
 
-Modern 2/1 with gadgets.
 
-## Authors
+Authors: Adam Janas, Zdeněk Tomis 
 
-- Adam Janas
-- Zdeněk Tomis
-- Adam Pyszko 
-
-Conventions, style, and various other things taken from numerous others.

@@ -20,12 +20,8 @@ defaults:
 logo: "/assets/images/logo.png"
 search_enabled: false
 
-aux_links:
-  Versions: "/fools/versions"
-
 include:
  - "assets/js"
- - ".htaccess"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -35,17 +31,14 @@ include:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - README.md
-  - versions.php
-
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

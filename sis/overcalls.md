@@ -11,7 +11,7 @@ nav_order: 10
 {:toc}
 
 
-## Direct and 4th hand LIVE suit overcalls
+# Direct and 4th hand LIVE suit overcalls
 *Why overcall?*  
 We steal bidding space from our opponents.  
 Partner can find a good lead he would not be able to find otherwise.  
@@ -25,7 +25,7 @@ Be more sound with spades, there is no need to hurry.
 Overcalling at MP is not normal bridge.  
 If chances are good, we can risk a marginal TOP-score. Sometimes -800 is the result, it is no problem.     If you are not ready to risk your "life" every time you need to overcall, better play only Swiss teams. If you are not ready to overcall with bad hands at MP, you are bound to have many average results, but you are not going to win any titles.  
 
-### 1st lvl direct OC  
+## 1st lvl direct OC  
 At MP might be with good hand but bad suit (bad bridge).  
 At MP or NV IMP might me bad hand with good suit (bad bridge).  
 Almost no upper limit - equal level conversion after our T/o double ("strong on own suit" 21+)  
@@ -49,7 +49,7 @@ May have 4card Major only, but then have:
 
 4th hand LIVE: same requirements.  
 
-### 2nd lvl direct OC  
+## 2nd lvl direct OC  
 - Sound - look at the number of cards in RHO suit  
 - 4+ cards are excellent, 3 cards are horrible, 0-1 cards are good, 2 cards are uninspiring  
 - ODR-based  
@@ -61,11 +61,11 @@ The minimum for a vulnerable two-level overcall should be:
 - a 5-card with at least KQJ9x, AKJ9x or if the lowest card is eight w/14+  
 NV overcalls can be done with worse suit.  
 
-### 4th hand LIVE OC  
+## 4th hand LIVE OC  
 Be more sound. You need tricks, not HCP.  
 Against 2/1 (9+) be even more sound.Wide-range.  
 
-### Ambiguous overcalls  
+## Ambiguous overcalls  
 
 (1M)-3M
 : ask for stopper  
@@ -81,8 +81,8 @@ Against 2/1 (9+) be even more sound.Wide-range.
 2M
 : nat  
 
-### Responding to partners direct 1st lvl overcall  
-##### RHO doubles  
+## Responding to partners direct 1st lvl overcall  
+#### RHO doubles  
 (1x)-1y-(X)  
 
 XX
@@ -113,7 +113,7 @@ XX
 : FJ  
 
 
-##### RHO passes (Rubens advances)  
+#### RHO passes (Rubens advances)  
 (1x)-1y-(p)  
 
 1M
@@ -154,7 +154,7 @@ MP, both Vul
 (1♥)-1♠-(p)  
 Consider passing instead of bidding 1NT with minimum and at least moderate defence (not done at IMPs, the potential loss is too big).  
   
-##### RHO bids 1M  
+#### RHO bids 1M  
 
 1♠
 : 7+ F1, 5+ cards  
@@ -195,7 +195,7 @@ Consider passing instead of bidding 1NT with minimum and at least moderate defen
 X
 : Rosenkranz/Snapdragon  
 
-##### RHO bids 1NT  
+#### RHO bids 1NT  
 
 X
 : Resp  
@@ -222,7 +222,7 @@ X
 : FJ  
 
 
-##### RHO uses 1♠ as a 1NT TRF, system is ON (ignore it like they bid normal 1NT), plus:  
+#### RHO uses 1♠ as a 1NT TRF, system is ON (ignore it like they bid normal 1NT), plus:  
 
 X
 : 5+ w/5+♠  
@@ -232,7 +232,7 @@ X
 
 if you have a hand that is not described in the normal system, just pass  
 
-##### RHO bids 2 in a new suit (no jump)  
+#### RHO bids 2 in a new suit (no jump)  
 
 2 unbid
 : nat nF  
@@ -264,7 +264,7 @@ X
 
   
 
-##### RHO raises their suit to the 2nd lvl  
+#### RHO raises their suit to the 2nd lvl  
 
 X
 : Resp  
@@ -290,8 +290,8 @@ X
 3 new suit
 : nat INV  
 
-### Responding to partners direct 2nd lvl overcall  
-##### RHO passes or bids X  
+## Responding to partners direct 2nd lvl overcall  
+#### RHO passes or bids X  
 
 2cue LHO
 : 7-10 w/support (sbsq. 2NT asks)  
@@ -314,7 +314,7 @@ jump cue
 4m
 : FJ (only after partners M)  
 
-##### RHO raises their suit to the 2nd lvl  
+#### RHO raises their suit to the 2nd lvl  
 
 2NT
 : INV+  
@@ -338,13 +338,13 @@ X
 : FJ (only after partners M)  
 
 
-##### RHO raises their suit to the 3rd lvl  
+#### RHO raises their suit to the 3rd lvl  
 
 new suit 3rd lvl
 : nat INV  
 
 
-### Responding to a 4th hand LIVE suit overcall  
+## Responding to a 4th hand LIVE suit overcall  
 
 Show support
 : 2/3/4 cuebids  
@@ -368,7 +368,7 @@ Responder uses partners 10K&R as the minimal strength for his overcall.
 2nd lvl = three trumps: direct raise is PRE, higher cuebid is simple raise, lower cuebid is INV+  
 Attention: also applies when they bid a 4th hand LIVE sandwich 1NT promising two unbids.  
 
-##### Three cuebids  
+#### Three cuebids  
 *When three cuebids are avaliable for the support of partners 4th hand LIVE overcall below the level of 3 of his suit, it goes as this:*  
 
 lowest cue
@@ -383,7 +383,7 @@ highest cue
 simple raise
 : 7-11  
 
-##### Two cuebids
+#### Two cuebids
 
 lower cue
 : INV+ w/3+card support  
@@ -394,20 +394,20 @@ higher cue
 simple raise
 : 7-11  
 
-##### If opener rebids a new (fourth) suit
+#### If opener rebids a new (fourth) suit
 
 X
 : PEN  
 
-##### If opener raises responders suit or rebids his own suit  
+#### If opener raises responders suit or rebids his own suit  
 
 X
 : Snapdragon  
 
 
-## 1st lvl reopen suit overcalls and subsequent bidding
+# 1st lvl reopen suit overcalls and subsequent bidding
 
-###### (1a)-p-(p)
+##### (1a)-p-(p)
 
 Suit 1st lvl
 : 4+ cards, 8-14 (w/8-11 always 5+ cards)
@@ -474,7 +474,7 @@ Jump suit
 
 
 
-## Overcalling their PRE with a suit
+# Overcalling their PRE with a suit
 
 Your call | Direct | Direct jump | Reopen | Reopen jump
 2M        | 14+    | -           | 10+    | -
@@ -494,15 +494,15 @@ Both vul, IMP (3♦)-p-(p)-?
 xx xxx xx AKQ9xx = pass - maybe in MP or if it was a major.
 
  
-## NT overcalls
+# NT overcalls
 
-### 1NT direct overcall
+## 1NT direct overcall
 1NT direct overcall shows 15-18 and a stopper.  
 May be slightly off-shape.  
 
 
 
-###### (1m)-1NT-(p)
+##### (1m)-1NT-(p)
 
 2♣
 : Stayman
@@ -516,7 +516,7 @@ May be slightly off-shape.
 3a
 : nat INV
  
-###### Keri after (1M)-1NT-(p)
+##### Keri after (1M)-1NT-(p)
 
 2♣
 : puppet to 2♦, then p/c with any one-suiter
@@ -538,10 +538,10 @@ May be slightly off-shape.
 
 
 
-###### (1x)-1NT-(X)
+##### (1x)-1NT-(X)
 Helvic Wriggle ON
  
-###### (1x)-1NT-(2x)
+##### (1x)-1NT-(2x)
 
 2y
 : nat nF
@@ -553,7 +553,7 @@ Helvic Wriggle ON
 : nat INV
 
  
-###### (1x)-p-(1y)-1NT
+##### (1x)-p-(1y)-1NT
 (16-19 with good both stoppers)
 
 2x
@@ -563,7 +563,7 @@ Helvic Wriggle ON
 : nat
  
 
-### 2NT direct overcall
+## 2NT direct overcall
 16-19
 
 3♣
@@ -601,7 +601,7 @@ Helvic Wriggle ON
  
 
 
-### 3NT direct overcall
+## 3NT direct overcall
 16-21  
 over minor: STAY ON, TRF ON  
 over major:
@@ -641,33 +641,33 @@ RNG ask:
 
 
 
-### 1NT reopen overcall
+## 1NT reopen overcall
 
 12-15, NV no stopper needed  
 nat responses, cue ART, possibly ask for M4, cue twice nat
 
 
 
-### 2NT reopen jump overcall
-19-20, STAY and TRF on
+## 2NT reopen jump overcall
+19-20, nat responses
 
 
-### 2NT reopen against PRE or constructive 2m opening overcall
+## 2NT reopen against PRE or constructive 2m opening overcall
 14-18, STAY and TRF on
 
 
-### 3NT reopen against PRE or constructive 2m opening overcall
+## 3NT reopen against PRE or constructive 2m opening overcall
 to play (if jump, then possibly long running suit)
 
 
-### 4th hand LIVE 1NT overcall
+## 4th hand LIVE 1NT overcall
 nat, 16-19 w/both stoppers, but try to find a plan B  
 nat responses unless they artificially bid 1♣-1♦, then STAY and TRF on 
 
 
-## PRE-balancing
+# PRE-balancing
 
-###### (1M)-p-(2M)
+##### (1M)-p-(2M)
 
 X
 : 4-5 oM and 4+m
@@ -689,7 +689,7 @@ Suit
 
 
 
-###### (1m)-p-(2m)
+##### (1m)-p-(2m)
 
 X
 : T/o w/44++ Majors
@@ -702,7 +702,7 @@ Suit
 
 
 
-###### (1x)-p-(2♣) 2+♣
+##### (1x)-p-(2♣) 2+♣
 
 X
 : PEN, sound, some defence is preferable so they do not find a marginal slam
@@ -718,7 +718,7 @@ X
 
 
 
-###### (1x)-p-(2y) 2/1 9+
+##### (1x)-p-(2y) 2/1 9+
 
 2NT
 : offensive unbids
@@ -731,14 +731,14 @@ If they XX partners Pre-balancing X, pass is PEN
 
 
 
-## Balancing
+# Balancing
 Up to 2♠
 
 X of 2NT or higher
 : DSI4
 
 
-###### (1♠)-p-(2♠)-p-(p)
+##### (1♠)-p-(2♠)-p-(p)
 
 X
 : T/o or ♣+♥ T/o (w/♦ preference, advancer bids 2NT (sbsq. 3♦ regular, 3♣ ♣+♥)
@@ -747,7 +747,7 @@ X
 : T/o ♦+♣ or ♦+♥ (dynamic)
 
 
-###### (1♥)-p-(2♥)-p-(p)
+##### (1♥)-p-(2♥)-p-(p)
 
 X
 : T/o w/3♠
@@ -784,7 +784,7 @@ OPPs 1st lvl 4+mening
 
 
 
-### Reopening after their preempts
+## Reopening after their preempts
 
 2NT/2♦
 : 14-18        STAY on, TRF on
@@ -806,7 +806,7 @@ jump 3x
 
 
 
-### Reopen safety (Lawrence)
+## Reopen safety (Lawrence)
 
 N  | S  | N  | S  | N  |             | ♣  | ♦  | ♥  | ♠
 1♦ | 2♦ | P  |    |    |             | F  | -  | A  | A
@@ -829,7 +829,7 @@ N  | S  | N  | S  | N  |             | ♣  | ♦  | ♥  | ♠
 
  
 
-### Lebensohl
+## Lebensohl
 
 a) after we double their 2M opening preempt, on reopen too (not when we are both passed hands - SCR)
 
@@ -858,7 +858,7 @@ cue
 
 
 
-###### (2♥)-X-(p)
+##### (2♥)-X-(p)
 
 2♠
 : 4+♠ nF
@@ -871,7 +871,7 @@ cue
 
 
 
-###### (2♠)-X-(p)
+##### (2♠)-X-(p)
 
 3♥
 : 5♥ INV
@@ -910,7 +910,7 @@ e) Responder reopens Lebensohl style after partners opening, responders initial 
 
 
 
-### 2NT Scrambling
+## 2NT Scrambling
 
 When 2NT has no explicit meaning, and it is clear a game cannot be reached, use 2NT as scrambling.
 
@@ -930,13 +930,13 @@ after X:
 
 Strain before level.
 
-###### 1m-(2M)-p-(p)-X-(p)
+##### 1m-(2M)-p-(p)-X-(p)
 
 After a reopening double of 2♥ or 2♠, responder’s 2NT is a scramble, initially aiming to find the best minor-suit fit, typically with 5om/3m or perhaps 4♣/2-3♦ (after a 1♦ opening). However, scrambling with 2NT and converting three-of-a-minor to 3♥ (after a 2♠) overcall is invitational in ♥. Converting to 3♠ (after a 2♥ overcall of our 1m) suggests only four spades, while a jump to 3♠ directly over the reopening double suggests at least five (this also applies for LEB over 2M preemptive openings).
 
  
 
-## Weak jump overcalls
+# Weak jump overcalls
 
 1st pos
 : 5-10 (sbsq. 2NT ask for strength)
@@ -949,13 +949,13 @@ After a reopening double of 2♥ or 2♠, responder’s 2NT is a scramble, initi
 
 
 
-### Intermediate jump Overcalls
+## Intermediate jump Overcalls
 
 (1♠)-3♥ when vulnerable - 6+♥ 11-14
 
 
 
-### WJO notes
+## WJO notes
 
 If they X, partner can PEN XX, but!:
 
@@ -974,9 +974,9 @@ We do not play "negative" slam doubles. If the preemptor doubles = good PEN.
 
 
 
-### Responding to WJOs
+## Responding to WJOs
  
-###### (1x)-2M-(3x/3y F1+) <br> p-(1x)-2M-(3y nF)
+##### (1x)-2M-(3x/3y F1+) <br> p-(1x)-2M-(3y nF)
 
 X
 : sacrifice maybe to 4M
@@ -985,7 +985,7 @@ X
 : push bid
 
 
-###### After our 3m or higher WJO and RHO bids:
+##### After our 3m or higher WJO and RHO bids:
 
 3NT
 : sacrifice maybe to 5m

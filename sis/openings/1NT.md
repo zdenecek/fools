@@ -287,7 +287,7 @@ pass
 ##### 1NT-2NT-3♣
 
 3♦
-: =(13)(54) (sbsq. 3♥ asks for singleton – 3♠ spade, 3NT heart)
+: =(13)54 (sbsq. 3♥ asks for singleton – 3♠ spade, 3NT heart)
 
 3M
 : 4oM
@@ -398,8 +398,8 @@ X
 : TRF INV+ (sbsq. 3♠ no fit, serious/-non-serious)
 
 3♠
-: no minors stopped, 3NT seeking, partner bids 4m cue if 3NT cant be made
-  
+: 1. no minors stopped, 3NT seeking, partner bids 4m cue if 3NT cant be made
+  2. Majorwood for 6 KC, initiated by cheapest bid by responder
 
 3NT
 : Both minors stopped
@@ -416,7 +416,27 @@ X
 5m
 : to play
 
+pass then
+: X/3♣
+    : M + M weak
 
+: 3R/3♣ 
+    : TRF weak 
+
+: 3♠/3♣ 
+    : only ♦ stopped
+
+: 3NT/3♣ 
+    : only ♣ stopped
+
+: X/3♦
+    : only ♣ stopped - partner bids 3M if he has not ♦ stopped
+
+: 3M/3♦
+    : nat weak
+
+: 3NT/3♦
+    : only ♦ stopped (dangerous)
 
 ### After they intervene our 1NT w/other conventional overcall
 

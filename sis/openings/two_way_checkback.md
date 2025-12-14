@@ -1,7 +1,6 @@
 ---
 title: Two way checkback
 parent: Openings
-has_children: true
 nav_order: 3
 ---
 
