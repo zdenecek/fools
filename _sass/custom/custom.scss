@@ -98,3 +98,13 @@ span.hearts {
 span.spades {
   color: #33339B;
 }
+
+/* Fix for Versions button size */
+.site-header .aux-links {
+  font-size: 1rem;
+  font-weight: 500;
+  
+  a {
+      font-size: 1rem; 
+  }
+}
