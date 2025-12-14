@@ -6,6 +6,9 @@ nav_order: 1
 
 # Fools
 
+### **Version 1.1 - Chrysalis**
+*The **intermediate** stage between a caterpillar and a butterfly.*
+
 Auction system and card-play agreements.
 
 Modern 2/1 with gadgets.
@@ -18,31 +21,14 @@ Modern 2/1 with gadgets.
 
 ## Changelog
 
-### 2024-04-17 Cozy booth at FEL
+### 2025-12-13 Coffee, Code and Cake
 
-- fixed changelog ordering
-- [1M - 2NT rewrite](/sis/openings/1M.html#swiss-1m-2nt)
-- CONFIT 2♠ after 1♣-1R-1NT
-- Simplified passed hand bidding after 1M
-- [Inversions after spades](/sis/openings/two_way_checkback/all_inversions_of_spades.html)
+- added versioning
 
+### 2025-12-14 IAFR integration
 
-### 2024-04-11 Adam's lair
-
-- fixed changelog, fixed 1M - 2NT to look good
-- added (1♣) - 2♣ 5spades + 5 other if 1♣ is 3+clubs
-- changed responses after (1m) - 2m to 2R is p/c
-
-
-### 2024-01-07 Faust Shisha bar
-
-- Add 2♦ drury w/4-card support
-- Rework passed hand bidding after 1M
-- Rework 1♥-1♠-2♦ for consistency - 3rd lvl INV
-- 1m-(3♥)-X shows spades, 3♠ asks for stopper.
-- 1♠-(3♥)-X incline to bid 3NT with stopper, 3♠ support wide-range
-- After 1♥-(4m) and 4♥ opening, 4♠ spades, 4NT RKCB  
-- deleted bunch of unused crap
-- After 2NT jump reopen STAY + TRF
-- S láskouuu kluci a děvčata <3
+- [1d Opening](/sis/openings/1d.html): Updated 1♦-1NT logic, 2♣ is 11-14, other bids are 15+
+- [1M Opening](/sis/openings/1M.html): Complete restructuring.
+- [2M Opening](/sis/openings/2M.html): 11-14 6card. Merged 2H/2S, updated logic.
+- [2d Opening](/sis/openings/2d.html): Added Mini-Multi versions.
 
